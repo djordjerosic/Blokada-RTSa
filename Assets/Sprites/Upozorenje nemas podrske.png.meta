@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: 4afc1e5126ad53d46809e262108bb1c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5993957516491029561
+    second: Upozorenje nemas podrske_0
+  - first:
+      213: 4260572151483827543
+    second: Upozorenje nemas podrske_1
+  - first:
+      213: -4594128495327338382
+    second: Upozorenje nemas podrske_2
+  - first:
+      213: -7545775051729518269
+    second: Upozorenje nemas podrske_3
+  - first:
+      213: -6527041335604753058
+    second: Upozorenje nemas podrske_4
+  - first:
+      213: -5648199217204717546
+    second: Upozorenje nemas podrske_5
+  - first:
+      213: 5074980101950277918
+    second: Upozorenje nemas podrske_6
+  - first:
+      213: -2741116185727838550
+    second: Upozorenje nemas podrske_7
+  - first:
+      213: -615815789635206168
+    second: Upozorenje nemas podrske_8
+  - first:
+      213: -6279398373107362939
+    second: Upozorenje nemas podrske_9
+  - first:
+      213: 8817719016752010012
+    second: Upozorenje nemas podrske_10
+  - first:
+      213: 1721210156483147317
+    second: Upozorenje nemas podrske_11
+  - first:
+      213: 3588818771448709628
+    second: Upozorenje nemas podrske_12
+  - first:
+      213: 1410670943828515932
+    second: Upozorenje nemas podrske_13
+  - first:
+      213: 4950265294117177940
+    second: Upozorenje nemas podrske_14
+  - first:
+      213: -1548454597586862379
+    second: Upozorenje nemas podrske_15
+  - first:
+      213: -663498838615333712
+    second: Upozorenje nemas podrske_16
+  - first:
+      213: 2780211384458556654
+    second: Upozorenje nemas podrske_17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Upozorenje nemas podrske_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 46
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cfa399a90de2350800000000000000
+      internalID: 5993957516491029561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upozorenje nemas podrske_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 46
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7558d1d5cc7902b30800000000000000
+      internalID: 4260572151483827543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upozorenje nemas podrske_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 46
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270a38769706e30c0800000000000000
+      internalID: -4594128495327338382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upozorenje nemas podrske_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 46
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34148a6d195084790800000000000000
+      internalID: -7545775051729518269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upozorenje nemas podrske_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 46
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dccfcac7a4b65a0800000000000000
+      internalID: -6527041335604753058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upozorenje nemas podrske_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 64
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6189fd5ccb09d91b0800000000000000
+      internalID: -5648199217204717546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upozorenje nemas podrske_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 46
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e190ceaa383fd6640800000000000000
+      internalID: 5074980101950277918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upozorenje nemas podrske_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 46
+        width: 55
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa65e952a5995f9d0800000000000000
+      internalID: -2741116185727838550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upozorenje nemas podrske_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 46
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e387b35dce2477f0800000000000000
+      internalID: -615815789635206168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upozorenje nemas podrske_9
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 39
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58315c703781bd8a0800000000000000
+      internalID: -6279398373107362939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upozorenje nemas podrske_10
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 64
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13d5ba3ab4de5a70800000000000000
+      internalID: 8817719016752010012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upozorenje nemas podrske_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 46
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536f8f89487f2e710800000000000000
+      internalID: 1721210156483147317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upozorenje nemas podrske_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 46
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1447388ab0ec130800000000000000
+      internalID: 3588818771448709628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upozorenje nemas podrske_13
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 39
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c1dd5dfb5b39310800000000000000
+      internalID: 1410670943828515932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upozorenje nemas podrske_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 46
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a8ccfae00e2b440800000000000000
+      internalID: 4950265294117177940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upozorenje nemas podrske_15
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 46
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5deb3006fb8c28ae0800000000000000
+      internalID: -1548454597586862379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upozorenje nemas podrske_16
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 64
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4e2775257cac6f0800000000000000
+      internalID: -663498838615333712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upozorenje nemas podrske_17
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 46
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee43623268b459620800000000000000
+      internalID: 2780211384458556654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Upozorenje nemas podrske_0: 5993957516491029561
+      Upozorenje nemas podrske_1: 4260572151483827543
+      Upozorenje nemas podrske_10: 8817719016752010012
+      Upozorenje nemas podrske_11: 1721210156483147317
+      Upozorenje nemas podrske_12: 3588818771448709628
+      Upozorenje nemas podrske_13: 1410670943828515932
+      Upozorenje nemas podrske_14: 4950265294117177940
+      Upozorenje nemas podrske_15: -1548454597586862379
+      Upozorenje nemas podrske_16: -663498838615333712
+      Upozorenje nemas podrske_17: 2780211384458556654
+      Upozorenje nemas podrske_2: -4594128495327338382
+      Upozorenje nemas podrske_3: -7545775051729518269
+      Upozorenje nemas podrske_4: -6527041335604753058
+      Upozorenje nemas podrske_5: -5648199217204717546
+      Upozorenje nemas podrske_6: 5074980101950277918
+      Upozorenje nemas podrske_7: -2741116185727838550
+      Upozorenje nemas podrske_8: -615815789635206168
+      Upozorenje nemas podrske_9: -6279398373107362939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
