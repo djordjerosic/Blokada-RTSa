@@ -83,7 +83,7 @@ public class RatSpawnerScript : MonoBehaviour
 
     private Vector3 getRandomScreenEdgeCoordinates()
     {
-        int edge = UnityEngine.Random.Range(0, 4);
+        int edge = UnityEngine.Random.Range(0, 6);
         Vector2 spawnPos = Vector2.zero;
 
         float camHeight = 2f * mainCamera.orthographicSize;
@@ -99,6 +99,12 @@ public class RatSpawnerScript : MonoBehaviour
                     camHeight / 2f
                 );
                 break;
+            case 4: // Top
+                spawnPos = new Vector2(
+                    UnityEngine.Random.Range(-camWidth / 2f, camWidth / 2f),
+                    camHeight / 2f
+                );
+                break;
             case 1: // Right
                 spawnPos = new Vector2(
                     camWidth / 2f,
@@ -106,6 +112,12 @@ public class RatSpawnerScript : MonoBehaviour
                 );
                 break;
             case 2: // Bottom
+                spawnPos = new Vector2(
+                    UnityEngine.Random.Range(-camWidth / 2f, camWidth / 2f),
+                    -camHeight / 2f
+                );
+                break;
+            case 5: // Bottom
                 spawnPos = new Vector2(
                     UnityEngine.Random.Range(-camWidth / 2f, camWidth / 2f),
                     -camHeight / 2f
