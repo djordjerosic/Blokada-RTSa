@@ -473,10 +473,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Planirano za slede\u0107e verzije:\n \n - Nove mape (\u0107evapd\u017Einica,
+  m_text: "Planirano za slede\u0107e verzije:\n - Mobile verzija\n - Nove mape (\u0107evapd\u017Einica,
     ko\u0161utnjak, rtv)\n - Novi protivnici (kobre, \u0107aci)\n - Pravljenje barikada
     \n - Specijalni karakteri (Dinstan\u010Du, \u0160timac)\n - Da nadjem umetnika
-    da bude lep\u0161e ovo\n\nOva igra je posve\u0107ena svim redarima.\n \n\n\n"
+    da bude lep\u0161e ovo\n\nOva igra je posve\u0107ena svim redarima.\nProjekat
+    je otvoren za modifikaciju i dostupan na https://github.com/djordjerosic/Blokada-RTSa\n
+    \n\n\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

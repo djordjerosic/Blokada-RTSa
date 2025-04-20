@@ -27,7 +27,7 @@ public class DifficultyLevelScript : MonoBehaviour
     public void StartEasyGame()
     {
         startingSupport = 50;
-        redarMaxEnergy = 75;
+        redarMaxEnergy = 80;
         policeDamage = 5;
         SceneManager.LoadScene("Game Scene");
     }
@@ -36,15 +36,15 @@ public class DifficultyLevelScript : MonoBehaviour
     {
         startingSupport = 30;
         redarMaxEnergy = 50;
-        policeDamage = 8;
+        policeDamage = 5;
         SceneManager.LoadScene("Game Scene");
     }
 
     public void StartHardGame()
     {
-        startingSupport = 10;
-        redarMaxEnergy = 30;
-        policeDamage = 10;
+        startingSupport = 20;
+        redarMaxEnergy = 40;
+        policeDamage = 8;
         SceneManager.LoadScene("Game Scene");
     }
 }

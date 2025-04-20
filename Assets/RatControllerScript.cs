@@ -59,7 +59,8 @@ public class RatControllerScript : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("RTS"))
         {
-            ScoreManagerScript.Instance.Podrska--;
+            ScoreManagerScript.Instance.Podrska-=3;
+            ScoreManagerScript.Instance.Propaganda+=3;
             GameObject.Destroy(this.gameObject);
         }
         if (collision.gameObject.CompareTag("Redar"))

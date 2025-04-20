@@ -31,6 +31,10 @@ public class ScoreManagerScript : MonoBehaviour
         Propaganda -= Time.deltaTime / 2;
         propagandaText.text = ((int)Propaganda).ToString();
         podrskaText.text = Podrska.ToString();
+        if(Propaganda > 100 && Podrska < 0)
+        {
+            SceneManager.LoadScene("Defeat Scene");
+        }
         if(Propaganda <= 0)
         {
             SceneManager.LoadScene("Victory Scene");
